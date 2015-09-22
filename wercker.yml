@@ -18,7 +18,6 @@ build:
             token: $git_token
             tag: v1.0.0
             title: Application v1.0.0
-            draft: false
         - github-upload-asset:
             token: $git_token
             file: Networking-Software.jar
