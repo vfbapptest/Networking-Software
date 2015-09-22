@@ -24,7 +24,7 @@ int main()
   {
     real= -b/(2*a);
     imag = sqrt(-determinant)/(2*a);
-    printf("Roots are: %.2f+%.2fi and %.2f-%.2fi", real, imag, real, imag);
+    printf("Roots are here: %.2f+%.2fi and %.2f-%.2fi", real, imag, real, imag);
   }
   return 0;
 }
